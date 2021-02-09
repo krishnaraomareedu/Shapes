@@ -66,5 +66,3 @@ double Circle::circumference()
     cout<<"Circumference="<<2*PI*rad<<endl;
     return 2*PI*rad;
 }
-
-
